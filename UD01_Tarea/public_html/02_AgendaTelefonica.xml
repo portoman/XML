@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<!DOCTYPE agenda>
+<agenda>
+    <contacto numero="01">
+        <nombre>Alfonso</nombre>
+        <apellido>
+            <primero>Porto</primero>
+            <segundo>Bujía</segundo>
+        </apellido>
+        <direccion>
+            <calle>Ramón de la Sagra</calle>
+            <numero>6</numero>
+            <piso>6 izda</piso>
+            <CP>15005</CP>
+            <localidad>A Coruña</localidad>
+        </direccion>
+        <telefono>
+            <movil>620771628</movil> 
+            <casa>981247043</casa> 
+            <trabajo>699788488</trabajo> 
+        </telefono>
+    </contacto>
+    <contacto numero="02">
+        <nombre>Pedro</nombre>
+        <apellido>
+            <primero>García</primero>
+            <segundo>Rodriguez</segundo>
+        </apellido>
+        <direccion>
+            <calle>Alfredo Vicenti</calle>
+            <numero>2</numero>
+            <piso>5 decha</piso>
+            <CP>15004</CP>
+            <localidad>A Coruña</localidad>
+        </direccion>
+        <telefono>
+            <movil>687989856</movil> 
+            <casa>981254788</casa> 
+            <trabajo>624569775</trabajo> 
+        </telefono>
+    </contacto>
+</agenda>
+
+
+

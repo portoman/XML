@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!DOCTYPE recetas>
+<recetas>
+    <receta numero="01">
+        <nombre>Sopa de cebolla</nombre>
+        <numComensales>4</numComensales>
+        <ingredientes>
+            <ingrediente numero="01">
+                <nombre>Cebolla</nombre>
+                <cantidad>1</cantidad>
+                <unidad>Kg</unidad>
+            </ingrediente>
+            <ingrediente numero="02">
+                <nombre>Caldo de carne</nombre>
+                <cantidad>2</cantidad>
+                <unidad>L</unidad>
+            </ingrediente>
+            <ingrediente numero="03">
+                <nombre>Mantequilla</nombre>
+                <cantidad>100</cantidad>
+                <unidad>gr</unidad>
+            </ingrediente>
+            <ingrediente numero="04">
+                <nombre>Harina</nombre>
+                <cantidad>1</cantidad>
+                <unidad>Cucharada</unidad>
+            </ingrediente>
+            <ingrediente numero="05">
+                <nombre>Queso elemental suizo o guère rayado</nombre>
+                <cantidad>100</cantidad>
+                <unidad>gr</unidad>
+            </ingrediente>
+            <ingrediente numero="06">
+                <nombre>Pan tostado</nombre>
+                <cantidad>Sin determinar</cantidad>
+                <unidad>rebanada</unidad>
+            </ingrediente>
+            <ingrediente numero="07">
+                <nombre>Tomino</nombre>
+                <cantidad>Sin determinar</cantidad>
+                <unidad>Sin determinar</unidad>
+            </ingrediente>
+            <ingrediente numero="08">
+                <nombre>Laurel</nombre>
+                <cantidad>Sin determinar</cantidad>
+                <unidad>Sin determinar</unidad>
+            </ingrediente>
+            <ingrediente numero="09">
+                <nombre>Pimienta</nombre>
+                <cantidad>Sin determinar</cantidad>
+                <unidad>Sin determinar</unidad>
+            </ingrediente>
+        </ingredientes>
+        <proceso>
+            <paso numero="01">Pelar y partir las cebollas en toros finos</paso>
+            <paso numero="02">Sofreírlas con mantequilla, sal y pimienta a fuego lento hasta que estén transparentes sin dorarse</paso>
+            <paso numero="03">Añadir la harina sin dejar de remover</paso>
+            <paso numero="04">Ponerlo en una cazuela con el caldo, el tomillo y el laurel</paso>
+            <paso numero="05">Dejar cocer a fuego lento durante unos 15 minutos</paso>
+            <paso numero="06">Poner las rebanadas de pan encima, empolvar el queso y gratinarlo al horno</paso>
+        </proceso>
+    </receta>;
+</recetas>

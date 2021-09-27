@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!DOCTYPE modulo>
+<modulo>
+    <cicloFormativo>ASIR</cicloFormativo>
+    <nombre>Lenguajes de Marcas y Sistemas de Gestión de información</nombre>
+    <horasSemanales>4</horasSemanales>
+    <caracter>Obligatorio</caracter>
+    <fechaInicio>15/09/2010</fechaInicio>
+    <fechaFin>30/06/2011</fechaFin>
+    
+    <alumnos>
+        <alumno numero="01">
+            <nombre>Ana</nombre>
+            <apellidos>
+                <primero>Fernández</primero>
+                <segundo>Gutiérrez</segundo>
+            </apellidos>
+            <NIF>16965696L</NIF>
+            <telefono>789654321</telefono>
+            <email>ana.fdezgtrrez@hotmail.com</email>
+            <direccion>
+                <calle>El Percebe</calle>
+                <numero>13</numero>
+                <localidad>Santander</localidad>
+                <CP>39302</CP>
+            </direccion>
+            <faltasAsistencia>sin información</faltasAsistencia>
+            <notas>sin información</notas>
+        </alumno>
+        <alumno numero="02">
+            <nombre>Pepe</nombre>
+            <apellidos>
+                <primero>Pérez</primero>
+                <segundo>sin información</segundo>
+            </apellidos>
+            <NIF>98765432H</NIF>
+            <telefono>656566555</telefono>
+            <email>yhyh@yahoo.com</email>
+            <direccion>
+                <calle>Avda. El Pez</calle>
+                <numero>5</numero>
+                <localidad>Suances</localidad>
+                <CP>39401</CP>
+            </direccion>
+            <faltasAsistencia>0</faltasAsistencia>
+            <notas>apto</notas>
+        </alumno>
+    </alumnos>
+</modulo>
